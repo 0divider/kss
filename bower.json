@@ -1,0 +1,21 @@
+{
+  "name": "kss",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "0divider"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/0divider/kss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"    
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "fancybox": "^3.1.20",
+    "slick-carousel": "^1.7.0"    
+  }
+}
